@@ -1,0 +1,15 @@
+- go to 'server' directory and run 'npm init -y' on console
+package.json
+- add in "scripts"; 'start: "nodemon index"'. Keeps the 'index' file running, 
+  so it looks into all the changes.
+- add 'type: "module"'. Allows use 'import', 'export' syntax
+npm install
+- 'cloudinary' => used to save images.
+- 'cors' => allow cross origin requests.
+- 'dotenv' => storing environment variables
+- 'express'
+- 'mongoose'
+- 'nodemon'
+- 'openai'
+
+* create 'index.js' file.
